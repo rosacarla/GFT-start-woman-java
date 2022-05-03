@@ -1,18 +1,18 @@
 # Lógica de Programação Essencial  
 
 <p align="center">
-	<img src="" width="250">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/ModuloI-conteudo-de-abertura/003%20Logica-de-programacao-essencial/images/conceito-logica.jpg" width="500">
 </p>
 
 ## Conteúdos do curso:  
 
-1) Introdução à logica e à programação  
+1) Introdução à logica e à programação
 - Entendendo o que é lógica  
 - O que são algoritmos e pseudocódigo  
 - Aprendendo fluxograma, variáveis e constantes  
 - Tomadas de decisões e expressões  
 - Como utilizar a concatenação  
-2) Introdução ao Portugol  
+2) Introdução ao Portugol 
 - Aprenda como utilizar uma estrutura de repetição  
 - O que são linguagens de programação  
 - Aprenda a utilizar desvios condicionais e boas práticas em
@@ -24,19 +24,19 @@ programação
 
 ## Algumas práticas realizadas  
 
-- Construção de casa com laço de repetição em jogo Minecraft, no site Hour of Code  
+- Construção de casa utilizando laço de repetição e Minecraft, no site Code.org.
 </br>
 
 <p align="center">
-	<img src="" width="250">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/ModuloI-conteudo-de-abertura/003%20Logica-de-programacao-essencial/images/laco-de-repeticao-minecraft.gif" width="750">
 </p>  
 
 
-- Pseudocódigos com Flowgorithm
+- Pseudocódigo com Flowgorithm
 </br>
 
 <p align="center">
-	<img src="" width="250">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/ModuloI-conteudo-de-abertura/003%20Logica-de-programacao-essencial/images/flow-if-concatenate.png" width="350">
 </p> 
 
 - Versão do pseudocódigo em Java 
@@ -77,9 +77,8 @@ public class JavaApplication {
 
 [Hour of Code Minecraft](https://studio.code.org/s/mc/stage/1/puzzle/1)  
 [Jogo do lobo, ovelha, repolho](https://www.proprofs.com/games/wolf-sheep-and-cabbage/)  
-[Jogo dos ponguins](https://rachacuca.com.br/jogos/pinguins-numa-fria/) 
+[Jogo dos pinguins](https://rachacuca.com.br/jogos/pinguins-numa-fria/)  
 [Programa para criar fluxogramas: Flowgorithm](http://www.flowgorithm.org)  
-[Sobre espressões relacionis em Java](https://runestone.academy/ns/books/published//Subgoals/WriteSelection/WorkedEx-1-WriteRelationalExpressions.html)  
-
+[Sobre expressões relacionais em Java (teoria e exercícios)](https://runestone.academy/ns/books/published//Subgoals/WriteSelection/WorkedEx-1-WriteRelationalExpressions.html)  
 
 ---
