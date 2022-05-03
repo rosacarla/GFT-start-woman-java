@@ -1,0 +1,116 @@
+>>>>>>>> 28/04/2022 <<<<<<<<
+
+Logica de programação essencial - Anotações complementares
+
+Curso concluído em 16/05/2020.
+
+##########################################################
+
+
+1) Introdução à logica e à programação
+- Entendendo o que é lógica
+Exemplos de abastrações
+Google Sheets (https://www.google.com/sheets/about/)
+
+- O que são algoritmos e pseudocódigo
+Sequencia de passos pra resolver uma problema.
+Todo programa é uma sequencia de passos e se ordem for
+alterada pode mudar o resultado.
+Jogos Minecraft
+Site https://studio.code.org/s/mc/stage/1/puzzle/1
+Video de construção da casa com laço de repetição
+https://screencast-o-matic.com/watch/c3fufYVYaHS
+Transformar em GIF!
+Salvei codigo-minecraft em JavaScript.
+Link do último código de criação livre:
+https://studio.code.org/c/1526057007
+## Pseudocodigo
+#Jogo do lobo, ovelha, repolho
+https://www.proprofs.com/games/wolf-sheep-and-cabbage/
+# Jogo dos pinguins
+https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+- Aprendendo fluxograma, variáveis e constantes
+Fluxograma = ferramenta usada pra representar graficamente
+o algoritmo ou a seq. logica e coerente do fluxo de dados
+(entrada -> processamentpo -> saida). É documentação dos
+passos necessário à execução de um processo qualquer, não 
+só de software. 
+Variáveis = objetos (posição localizada na memoria) capaz
+de reter e representar um valor ou expressão.
+Espaço na memoria do computador destinado a um dado que é 
+alterado durante a execução do algoritmo.
+Em pseudocodigo, declaram-se variaveis antes no início do
+programa. Fica dito que existirão variáveis pra receber 
+valores no código.
+Variaveis e constantes podem se classificar em: numericas,
+caracteres, alfanumericas ou lógicas.
+Constantes = valores imutáveis, não se alteram durante a
+vida útil do programa. Exemplo: declarar valor fico do 
+numero Pi. (3,14).
+Site pra criar fluxogramas: http://www.flowgorithm.org
+Video da execução do fluxograma: 
+https://screencast-o-matic.com/watch/c3fuiBVYzjv
+
+>>>> 05/05/2022 <<<<
+- Tomadas de decisões e expressões
+Expressões aritmeticas, literais e relacionais
+Tomadas de decisão em algoritmo
+
+Expr arit -> operadores e funções arit com constantes
+e variaveis. Operadores: +, -, *, /, ^ (potenciação), %
+
+Expr lit -> constantes e/ou variaveis que resultam em
+val literais, usada pra atribuir val à var ou const.
+Atribuir com sinal "=" ou "<-"
+Criei fluxo e gerei código em Java usando o programa
+Flowgorithm.
+
+Expr rel -> expr ou var numericas com operadores rela-
+cionais, retornam val logicos (V ou F).
+[>, >=, <, <=, ==, !=]
+
+Praticar sobre expressões relacionais com Java:
+https://runestone.academy/ns/books/published//Subgoals/WriteSelection/WorkedEx-1-WriteRelationalExpressions.html
+
+Tomada de decisao= 60% da programação, envolve condição
+Código 1 -> compra com cartao
+Código 2 -> compara notas, media > 7
+Código 3 -> compara notas, media >= 7
+
+Exercicio final:
+1-declarar 4 variaveis (jan, fev, mar, abr) pra atribuir
+valor de venda de cada mês.
+2-calular media de vendas dos 4 meses.
+3-condicao pra media maior ou igual a 5000, imprime msg
+"Parabens, voce vai receber um abono de 10%!"e, se for
+menos de 5000, imprime msg "Você receberá um abono de 3%!"
+Feito codigo cond-if-sales-average.java
+
+- Como utilizar a concatenação
+Em computação, concatenar é a operação de unir 2 strings
+ou seq de caracteres.
+Também pode agrupar 2 ou + celulas com formulas, textos ou
+outras info, que originam unico resultado.
+Codigo concatenate-string
+Exercicio final:
+- reescrever codigo da media de notas com impressão de msg
+que concatena nome do aluno e média.
+Fiz codigo string-if-concatenate.java
+
+
+2) Introdução ao Portugol
+- Aprenda como utilizar uma estrutura de repetição
+
+- O que são linguagens de programação
+
+- Aprenda a utilizar desvios condicionais e boas práticas em
+programação
+
+- Trabalhando com laços de repeticção em Portugol
+
+- Aplicação prática com matrizes e vetores
+
+
+
+

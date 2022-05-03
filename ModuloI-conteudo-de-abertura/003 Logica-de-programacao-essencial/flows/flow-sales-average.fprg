@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="carla"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-05-03 02:34:55 "/>
+        <attribute name="created" value="Y2FybGE7TEFQVE9QLTEzSDUxTVNUOzIwMjItMDUtMDM7IjAyOjE2OjA0ICI7MjcyNA=="/>
+        <attribute name="edited" value="Y2FybGE7TEFQVE9QLTEzSDUxTVNUOzIwMjItMDUtMDM7IjAyOjM0OjU1ICI7MTsyODM4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="jan, fev, mar, abr, media" type="Integer" array="False" size=""/>
+            <output expression="&quot;Informe os valores de suas vendas no 1o. quadrimestre.&quot;" newline="True"/>
+            <input variable="jan"/>
+            <input variable="fev"/>
+            <input variable="mar"/>
+            <input variable="abr"/>
+            <assign variable="media" expression="(jan+fev+mar+abr)/4"/>
+            <output expression="&quot;O valor medio de suas vendas &#233;: &quot;" newline="True"/>
+            <output expression="media" newline="True"/>
+            <if expression="media&gt;=5000">
+                <then>
+                    <output expression="&quot;Parabens, voce vai receber um abono de 10%!&quot;" newline="True"/>
+                    <output expression="&quot;Seu abono ser&#225; no valor de: &quot;" newline="True"/>
+                    <output expression="(media*10)/100" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Voc&#234; receber&#225; um abono de 3%!&quot;" newline="True"/>
+                    <output expression="&quot;Seu abono ser&#225; no valor de: &quot;" newline="True"/>
+                    <output expression="(media*3)/100" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
