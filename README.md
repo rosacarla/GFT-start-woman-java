@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/ModuloI-conteudo-de-abertura/001%20Bootcamp-GFT-start-woman/logo-gft-start-woman-java.png" width="150">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/001%20Bootcamp-GFT-start-woman/logo-gft-start-woman-java.png" width="150">
 </p>  
 
 # <p align="center">Bootcamp GFT Start Woman Java</p>
@@ -11,11 +11,11 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 ## **Conteúdos do bootcamp:**  
 
 * Módulo I - Conteúdo de abertura  
-    - [Boas-vindas ao Bootcamp GFT Start Woman Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/ModuloI-conteudo-de-abertura/001%20Bootcamp-GFT-start-woman)
-    - [Mentoria - Aula Inaugural - GFT Start Woman](https://github.com/rosacarla/GFT-start-woman-java/tree/main/ModuloI-conteudo-de-abertura/002%20Aula-Inaugural-GFT-start-woman-java)  
-    - [Lógica de Programação Essencial](https://github.com/rosacarla/GFT-start-woman-java/tree/main/ModuloI-conteudo-de-abertura/003%20Logica-de-programacao-essencial)  
+    - [Boas-vindas ao Bootcamp GFT Start Woman Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/001%20Bootcamp-GFT-start-woman)
+    - [Mentoria - Aula Inaugural - GFT Start Woman](https://github.com/rosacarla/GFT-start-woman-java/tree/main/002%20Aula-Inaugural-GFT-start-woman-java)
+    - [Lógica de Programação Essencial](https://github.com/rosacarla/GFT-start-woman-java/tree/main/003%20Logica-de-programacao-essencial)  
     - [Introdução ao Git e GitHub]()
-    - [Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (desafio de projeto)]()  
+    - [Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (desafio de projeto)](https://github.com/rosacarla/GFT-start-woman-java)  
 
 * Módulo II - Setup  
     - [Dominando IDEs Java]()    
