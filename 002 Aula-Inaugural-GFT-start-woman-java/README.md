@@ -28,12 +28,12 @@ projetos, desafios de código e muito mais!
 #### #MakeTheChange  
 </br>
 
-:computer: Publicação do bootcamp no [LinkedIn](https://www.linkedin.com/posts/carla-edila-silveira_estagio-womenintechnology-java-activity-6923345094582362112-Hclx?utm_source=linkedin_share&utm_medium=member_desktop_web).
-
 ---  
 
 ## Links úteis  
 
-[Suporte técnico da DIO](https://help.dio.me)
+[Suporte técnico da DIO](https://help.dio.me)  
+
+:computer: Publicação sobre o bootcamp no [LinkedIn](https://www.linkedin.com/posts/carla-edila-silveira_estagio-womenintechnology-java-activity-6923345094582362112-Hclx?utm_source=linkedin_share&utm_medium=member_desktop_web).  
 
 ---  
