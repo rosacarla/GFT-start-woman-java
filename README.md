@@ -10,7 +10,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 
 ## **Conteúdos do bootcamp:**  
 
-* Módulo I - Conteúdo de abertura  
+* Módulo I - Conteúdo de abertura ✅
     - [Boas-vindas ao Bootcamp GFT Start Woman Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/001%20Bootcamp-GFT-start-woman)
     - [Mentoria - Aula Inaugural - GFT Start Woman](https://github.com/rosacarla/GFT-start-woman-java/tree/main/002%20Aula-Inaugural-GFT-start-woman-java)
     - [Lógica de Programação Essencial](https://github.com/rosacarla/GFT-start-woman-java/tree/main/003%20Logica-de-programacao-essencial)  
