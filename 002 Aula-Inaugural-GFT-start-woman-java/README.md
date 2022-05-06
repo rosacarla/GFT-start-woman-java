@@ -8,18 +8,18 @@ projetos, desafios de código e muito mais!
 </br>
 
 <p align="center">
-	<img src="" width="750">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/002%20Aula-Inaugural-GFT-start-woman-java/live-aula-inaugural.jpg" width="750">
 </p> 
 
 ---  
 
 ## Frase da mentoria  
 
-"Ninguém fica pra trás! :)"  
+> #### _"Ninguém fica pra trás! :)"_  
 
 ---
 
-## Hashtags sugeridas para publicações em redes sociais  
+## Hashtags sugeridas para publicação em redes sociais  
 
 #### #GFTStartWomanJavaDIO  
 
@@ -31,7 +31,7 @@ projetos, desafios de código e muito mais!
 
 ## Links úteis  
 
-[Bootcamp GFT Start Woman Java]()  
+[Bootcamp GFT Start Woman Java](https://www.linkedin.com/posts/carla-edila-silveira_estagio-womenintechnology-java-activity-6923345094582362112-Hclx?utm_source=linkedin_share&utm_medium=member_desktop_web)  
 [Suporte técnico da DIO](https://help.dio.me)
 
 ---  
