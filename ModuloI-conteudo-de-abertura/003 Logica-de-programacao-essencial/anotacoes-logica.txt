@@ -101,16 +101,63 @@ Fiz codigo string-if-concatenate.java
 
 2) Introdução ao Portugol
 - Aprenda como utilizar uma estrutura de repetição
+Estrutura que executa mais de uma vez o mesmo comando ou
+cj de comandos, conforme condição (if) ou contador (for).
+Exemplo: relatorio pra exibir 5000 clientes da empresa,
+sem repetir comandos para cada cliente existente.
+Exercicio proposto: reoproduzir a tabuada do 9
 
 - O que são linguagens de programação
+Lgm escrita e formal que especifica cj de instruções e 
+regras usadas pra gerar programas pra rodar em computador,
+disp. movel ou qualquer equipamento que permita execução.
+Função: meio de comunicação entre computadores e humanos,
+usada para que a maquina resolva um problema.
+lgm alto nivel = proxima da lgm humana, ex.: C, PHP, JS,
+C#,C++, Python, Basic, Delphi
+lgm bx nivel = proxima da lg de maquina, requer conheci-
+mento de arquitetura de computador, ex.: Assembly
+lg compilada = usa compilador para transformar codigo em
+arquivo exe, executado pelo SO ou processador.
+lgm interpretada = codigo executado por programa de compu-
+tador ou interpretador, depois executado por SO/processad..
+Ex.: JS, PHP, Python são interpretadas pelo servidor e 
+transformadas em html.
+Portugol = pseudolgm pra desenvolver algoritmos estrutu-
+rados em português (simples, intuitivo), independente da
+lgm de programação.
+IDE = ambiente gráfico do Portugol.
+https://github.com/UNIVALI-LITE/Portugol-Studio/releases/
+Exercicio proposto: reescrever codigo de media de vendas,
+sem estrutura condicional.
 
-- Aprenda a utilizar desvios condicionais e boas práticas em
-programação
+- Aprenda a utilizar desvios condicionais e boas práticas
+em programação
+Desvios e comentarios
+Desvio "se" = palavra reservada pra condição a testar em
+parenteses e instrucoes a executar em chaves, quando esse
+desvio é VERDADEIRO. 
+Desvio "caso" = similar a comandos "se" e "senao", mas nao
+é possível usar operadores logicos, só valores definidos.
+Codigo menu-canais
 
-- Trabalhando com laços de repeticção em Portugol
+- Trabalhando com laços de repetição em Portugol
+Laço de repetição = executa + de 1 vez o mesmo comando ou
+cj de comandos, conforme condicao ou contador. 
+Feito codigo de loop pra tabuada com pedido ao usuario de
+qual tabuada imprimir.
 
 - Aplicação prática com matrizes e vetores
-
-
-
-
+Matriz = coleção de variaveis de mesmo tipo. acessivel
+por nome único, armazenada contiguamente (em sequencia)
+na memoria. Ex.: tab de linhas e colunas
+Indice = individualização de cada variável de um vetor.
+Vetor = matriz de 1 só dimensão
+Exemplos de codigo:
+cadeia Vetor[5]; //declara vetor de 5 posicoes
+cadeia Matriz[5][3]; // declara matriz de 5 lin e 3 col
+Exercicio final
+Criar matriz 3 x 3 com os seguintes dados:
+Joao  -- Sao Paulo      -- (11)9999-5241
+Maria -- Ribeirão Preto -- (16)9999-8596
+Ana   -- Manaus         -- (92)9999-8574

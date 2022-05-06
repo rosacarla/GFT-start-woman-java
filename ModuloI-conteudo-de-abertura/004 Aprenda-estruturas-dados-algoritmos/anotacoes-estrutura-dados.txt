@@ -1,0 +1,96 @@
+>>>>>>>> Aprenda o que são Estrutura de Dados e Algoritmos <<<<<<<<
+05/05/2022 - Prof. Bruno Dias
+
+1) Conceitos iniciais sobre estrutura de dados, arrays e
+registro
+- Introdução e objetivos
+
+- O que é estrutura de dados
+Organizada como uma cidade, armazenada em computador, pendrive,
+dispositivos pra armazenar. Estruturas de dados são aplicadas
+na memoria por meio de algoritmos.
+Desenvolver software= codificar algoritmo em lgm de programação
+Principais estruturas de dados: vetores e matrizes, registro,
+lista, pilha, fila, árvore, tabela hash, grafos. 
+
+- Vetores e matrizes
+Uso do Portugol (português estruturado).
+Vetor/array unidimensional armazena valores em N posições.
+Array multidimensional = vetor de vetores
+
+- O que são registros
+Registro é composto por campos que especificam sua composição.
+Estrutura de um registro tem nome. Usa-se um ponto (.) para
+acessar campos do registro, pra manipular ou requerer através
+do algoritmo determinado dado. Ex. : registro "clientes" tem
+campos: CPF, nome, endereço, contato. Para requerer um desses
+campos (nome), usa-se essa estrutura: clientes.nome; como se
+dissesse: pegue de clientes o nome.
+
+
+2) Entenda o que são Listas, Pilhas e Filas
+- Introdução e objetivos
+
+- O que são listas 
+Listas armazenam dados de certo tipo em ordem específica, têm
+tam. ajustado, diferem de arrays porque eles têm tam fixo. 
+Lista pode ser preenchida durante a execução do programa, já
+os arrays e matrizes devem ser inicializados com tam. fixo.
+Existem 2 estruturas de lista: ligada e duplamente ligada.
+Lista ligada = exitem nós (ou índices) que conhecem seu valor 
+armazenado e o elemento posterior; são ligadas por que os nós
+são amarrados com indicação do próximo.
+Listas podem ter tamanho variavel, são flexíveis.
+Lista duplamente ligada é uma variação das listas ligadas, é
+bidirecional, possibilita busca normal e reversa.
+
+- O que são pilhas
+Pilha = coleção de elementos, permite acesso a apenas 1 item 
+armazenado. Difere de vetor, matriz, lista, porque só pode 
+ser lido ou removido 1 item de cada vez. No vetor podem ser
+manipulados 2 itens ao mesmo tempo. 
+Estruturas de pilhas são LIFO e FIFO.
+LIFO = na manipulação o último item que entra é 1o. que sai,
+remoção de cima pra baixo.
+FIFO = 1o. que entra é o 1o. a sair, ocorre remoção de baixo
+pra cima. Push = inserir, Pop = remover
+
+- O que são filas
+Fila permite remover elemento que entrou 1o., segue conceito
+FIFO. Representação gráfica, insere item à dir, remove à esq.
+Vetor permite trabalhar com pilhas e filas.
+
+3) Estrutura de dados do tipo Árvore, Tabela, Hash e Grafos
+- Introdução e objetivos
+
+- O que são árvores
+Estrutura de dados que ordena elementos de modo hierárquico,
+tem elemento no topo (raiz) e elementos subordinados (nós ou
+folhas). Busca que passa por todas as posições de vetor é
+mais lenta, ajuda se estiver em ordem crescente. Busca pode
+ser com divisão do vetor ao meio e começar dali. Impossível
+fazer ordenações em listas ligadas, porque cada elemento é
+como se fosse um vetor diferente. Na estrutura de arvore há
+nós que podem ligar os elementos a partir da raiz que fica 
+no meio, então a busca vai para as subarvores; estrut tem 
+pais e filhos. Estrutura com ordem inversa.
+
+- O que são tabelas hash
+Tabela de espalhamento ou dispersao, associa chaves de pes-
+quisa a valores. 
+Tab hash = generalização da ideia de array, mas tem função 
+Hashing que espalha elementos para desordena-los no array.
+Pesquisa valores (posição/indice) associados a chaves (parte
+da info que compoe elemento a manipular). Espalhar ajuda a 
+encontrar val de uma chave, busca a posição e o código refe-
+rente ao valor. Dentro de posição no vetor pode ter cadastro
+com cpf, rg etc.
+
+- O que são grafos
+Estruturas que permitem programar relação entre objetos.
+Objetos = vertices ou nós do grafo
+Relacionamentos = arestas
+Grafos lembram relacionamentos de redes sociais, permitem
+fazer qualquer tipo de estrutura e de busca, não lineares.
+A busca pode andar para qualquer lado. Usados em algoritmos
+de IA, games, buscas mais avançadas.

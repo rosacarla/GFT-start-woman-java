@@ -77,7 +77,8 @@ public class JavaApplication {
 
 [Hour of Code Minecraft](https://studio.code.org/s/mc/stage/1/puzzle/1)  
 [Jogo do lobo, ovelha, repolho](https://www.proprofs.com/games/wolf-sheep-and-cabbage/)  
-[Jogo dos pinguins](https://rachacuca.com.br/jogos/pinguins-numa-fria/)  
+[Jogo dos pinguins](https://rachacuca.com.br/jogos/pinguins-numa-fria/)
+[Portugol](https://github.com/UNIVALI-LITE/Portugol-Studio/releases/)  
 [Programa para criar fluxogramas: Flowgorithm](http://www.flowgorithm.org)  
 [Sobre expressões relacionais em Java (teoria e exercícios)](https://runestone.academy/ns/books/published//Subgoals/WriteSelection/WorkedEx-1-WriteRelationalExpressions.html)  
 
