@@ -1,7 +1,7 @@
 # Lógica de Programação Essencial  
 
 <p align="center">
-	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/ModuloI-conteudo-de-abertura/003%20Logica-de-programacao-essencial/images/conceito-logica.jpg" width="500">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/003%20Logica-de-programacao-essencial/images/conceito-logica.jpg" width="500">
 </p>
 
 ## Conteúdos do curso:  
@@ -28,15 +28,14 @@ programação
 </br>
 
 <p align="center">
-	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/ModuloI-conteudo-de-abertura/003%20Logica-de-programacao-essencial/images/laco-de-repeticao-minecraft.gif" width="750">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/003%20Logica-de-programacao-essencial/images/laco-de-repeticao-minecraft.gif" width="750">
 </p>  
-
 
 - Pseudocódigo com Flowgorithm
 </br>
 
 <p align="center">
-	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/ModuloI-conteudo-de-abertura/003%20Logica-de-programacao-essencial/images/flow-if-concatenate.png" width="350">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/003%20Logica-de-programacao-essencial/images/flow-if-concatenate.png" width="350">
 </p> 
 
 - Versão do pseudocódigo em Java 
