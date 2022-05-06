@@ -1,4 +1,4 @@
-# Mentoria - Aula Inaugural - GFT Start Woman
+# Mentoria - Aula Inaugural - GFT Start Woman Java
 
 Chegou a hora de você começar a criar sua nova jornada!
 Nesta mentoria, abordaremos o passo a passo completo para
