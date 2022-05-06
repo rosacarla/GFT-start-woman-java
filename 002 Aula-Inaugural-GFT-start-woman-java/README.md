@@ -19,19 +19,21 @@ projetos, desafios de código e muito mais!
 
 ---
 
-## Hashtags sugeridas para publicação em redes sociais  
+## Hashtags sugeridas para usar em redes sociais  
 
 #### #GFTStartWomanJavaDIO  
 
 #### #ContratoDeCompromisso  
 
 #### #MakeTheChange  
+</br>
+
+:computer: Publicação do bootcamp no [LinkedIn](https://www.linkedin.com/posts/carla-edila-silveira_estagio-womenintechnology-java-activity-6923345094582362112-Hclx?utm_source=linkedin_share&utm_medium=member_desktop_web).
 
 ---  
 
 ## Links úteis  
 
-[Bootcamp GFT Start Woman Java](https://www.linkedin.com/posts/carla-edila-silveira_estagio-womenintechnology-java-activity-6923345094582362112-Hclx?utm_source=linkedin_share&utm_medium=member_desktop_web)  
 [Suporte técnico da DIO](https://help.dio.me)
 
 ---  
