@@ -16,7 +16,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
     - [Lógica de Programação Essencial](https://github.com/rosacarla/GFT-start-woman-java/tree/main/003%20Logica-de-programacao-essencial)  
     - [Aprenda o que são Estruturas de Dados e Algoritmos](https://github.com/rosacarla/GFT-start-woman-java/tree/main/004%20Aprenda-estruturas-dados-algoritmos)  
     - [Introdução ao Git e GitHub](https://github.com/rosacarla/GFT-start-woman-java/tree/main/005%20Introducao-git-github)
-    - [Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (desafio de projeto)](https://github.com/rosacarla/GFT-start-woman-java)  
+    - [Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (desafio de projeto)](https://github.com/rosacarla/GFT-start-woman-java/tree/main/006%20Criando-repositorio-github)  
 
 * Módulo II - Setup  
     - [Dominando IDEs Java]()    
