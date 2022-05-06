@@ -10,17 +10,17 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 
 ## **Conteúdos do bootcamp:**  
 
-* [Módulo I - Conteúdo de abertura](https://github.com/rosacarla/GFT-start-woman-java/tree/main/ModuloI-conteudo-de-abertura)  
+* Módulo I - Conteúdo de abertura  
     - [Boas-vindas ao Bootcamp GFT Start Woman Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/ModuloI-conteudo-de-abertura/001%20Bootcamp-GFT-start-woman)
     - [Mentoria - Aula Inaugural - GFT Start Woman](https://github.com/rosacarla/GFT-start-woman-java/tree/main/ModuloI-conteudo-de-abertura/002%20Aula-Inaugural-GFT-start-woman-java)  
     - [Lógica de Programação Essencial](https://github.com/rosacarla/GFT-start-woman-java/tree/main/ModuloI-conteudo-de-abertura/003%20Logica-de-programacao-essencial)  
     - [Introdução ao Git e GitHub]()
     - [Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (desafio de projeto)]()  
 
-* [Módulo II - Setup]()  
+* Módulo II - Setup  
     - [Dominando IDEs Java]()    
 
-* [Módulo III - Java Fundamental]()  
+* Módulo III - Java Fundamental 
     - [Variáveis, Tipos de Dados e Operadores Matemáticos em Java]()  
     - [Entendendo Métodos Java]()  
     - [Lógica Condicional e Controle de Fluxos em Java]()  
@@ -29,7 +29,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
     - [Como resolver desafios de código]()  
     - [Desafios Iniciais Java - GFT Start Woman (desafio de código)]()  
 
-* [Módulo IV - Java Essencial]()  
+* Módulo IV - Java Essencial
     - [Debugging Java]()  
     - [Tratamento de Exceções em Java]()  
     - [Programação Orientada a Objetos]()  
@@ -37,10 +37,10 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
     - [Abstraindo Situações do Mundo Real em Orientação a Objetos]()  
     - [Desafio Intermediários Java - GFT Start Woman (desafio de código)]()  
 
-* [Módulo V - Arquitetura de Sistemas]()  
+* Módulo V - Arquitetura de Sistemas 
     - [Introdução ao HTTP/HTTPS]()  
 
-* [Módulo VI - Java Avançado]()  
+* Módulo VI - Java Avançado
     - [Simplificando Projetos Java com o Spring Boot]()
     - [Explorando Padrões de Projetos na Prática com Java (desafio de projeto)]()  
 
