@@ -10,9 +10,10 @@
 - Como utilizar a concatenação  
 2)  Entenda o que são Listas, Pilhas e Filas  
 - Introdução e objetivos  
+- O que são listas
 - O que são pilhas
 - O que são filas  
-3) Estrutura de dados do tipo Árvore, Tabela, Hash e Grafos  
+3) Estrutura de dados do tipo Árvore, Tabela Hash e Grafos  
 - Introdução e objetivos  
 - O que são árvores  
 - O que são tabelas hash  
@@ -43,10 +44,9 @@ programa
 ```  
 
 - Exemplo de erro na execução de algoritmo com índices
-</br>
 
 <p align="center">
-	<img src="" width="750">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/004%20Aprenda-estruturas-dados-algoritmos/images/index-error.jpg">
 </p>  
 
 ---
