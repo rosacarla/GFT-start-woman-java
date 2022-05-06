@@ -9,10 +9,14 @@ o primeiro (de muitos) projetos do seu portfólio ;)
 
 ---
 
-## Projeto entregue  
-Nome do repositório: GFT-start-woman-java
-Disponível em: https://github.com/rosacarla/GFT-start-woman-java
-<p align="center"><img src="></p>
+## Projeto executado
+
+Nome do repositório: GFT-start-woman-java  
+Disponível em: https://github.com/rosacarla/GFT-start-woman-java  
+</br>
+<p align="center">
+  <img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/006%20Criando-repositorio-github/repo-gft.jpg" width="600">
+</p>
 
 ---
 
