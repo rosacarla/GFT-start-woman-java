@@ -8,9 +8,9 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 
 ---
 
-## **Conteúdos do bootcamp:**  
+## 📑 **Conteúdos do bootcamp:**  
 
-* Módulo I - Conteúdo de abertura ✅
+* ✅ Módulo I - Conteúdo de abertura  
     - [Boas-vindas ao Bootcamp GFT Start Woman Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/001%20Bootcamp-GFT-start-woman)
     - [Mentoria - Aula Inaugural - GFT Start Woman](https://github.com/rosacarla/GFT-start-woman-java/tree/main/002%20Aula-Inaugural-GFT-start-woman-java)
     - [Lógica de Programação Essencial](https://github.com/rosacarla/GFT-start-woman-java/tree/main/003%20Logica-de-programacao-essencial)  
@@ -51,7 +51,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 
 ---
 
-## Dados adicionais  
+## 📂 Dados adicionais  
 
 Carga horária: 55 hs  
 Data de conclusão: prevista para 30/05/2022  
@@ -59,20 +59,20 @@ Credencial do certificado nº: [X]()
 
 ---
 
-## Autora  
+## 💻 Autora  
 
 Carla Edila Silveira  
 Contato: rosa.carla@pucpr.edu.br  
 
 ---
 
-## Licença  
+## ©️ Licença  
 
 [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)  
 
 ---
 
-## Links Úteis  
+## 🔗 Links Úteis  
 [x]()  
 [x]()  
 [x]()  
