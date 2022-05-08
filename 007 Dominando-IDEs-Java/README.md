@@ -2,31 +2,28 @@
 
 ## Conteúdos do curso:  
 
-1) Apresentação e visão geral  
-- Apresentação do curso  
-- Visão geral do curso  
-2) Ambiente de desenvolvimento Ubuntu  
-- Instalação JDK e Git no Ubuntu  
-- Instalação IntelliJ e Eclipse no Ubuntu  
-3) Ambiente de desenvolvimento Windows  
-- Instalação JDK e Git no Windows  
-- Instalação IntelliJ e Eclipse no Windows  
-4) Eclipse  
-- Criando seu primeiro projeto com Eclipse  
-- Atalhos  
-- Git e GitHub  
-- Debug  
-- Últimas observações sobre Ecplipse  
-5) IntelliJ
-- Criando seu primeiro projeto com IntelliJ 
-- Mais atalhos e versionamento  
-- Debug  
-- Plugins  
-- Outra opção de IDE: Visual Studio Code
+_1) Apresentação e visão geral_  
+Apresentação do curso | Visão geral do curso  
+
+_2) Ambiente de desenvolvimento Ubuntu_  
+Instalação JDK e Git no Ubuntu | Instalação IntelliJ e Eclipse no Ubuntu 
+
+_3) Ambiente de desenvolvimento Windows_  
+Instalação JDK e Git no Windows | Instalação IntelliJ e Eclipse no Windows  
+
+_4) Eclipse_  
+Criando seu primeiro projeto com Eclipse | Atalhos | Git e GitHub | Debug | Últimas observações sobre Ecplipse  
+
+_5) IntelliJ_  
+Criando seu primeiro projeto com IntelliJ | Mais atalhos e versionamento | Debug | Plugins | Outra opção de IDE: Visual Studio Code
 
 ---
 
 ## Algumas práticas realizadas  
+
+**- Testes de versionamento de projetos**  
+| [teste 1: IDE Eclipse](https://github.com/rosacarla/Teste-curso-dio-IDEs-java) | [teste 2: sem IDE](https://github.com/rosacarla/Teste-sem-ide) | [teste 3: IDE IntelliJ](https://github.com/rosacarla/Teste-ide-intellij) |
+
 
 **- Criação de classes** 
 
@@ -105,8 +102,8 @@ public class Calculadora {
 
 ## Links úteis  
 
-[Atalhos do IntelliJ Idea](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea?msclkid=b9e9588ece8e11ec9a461daf5dc5f705)
-[Download Visual Studio Code](https://code.visualstudio.com/download)
+[Atalhos do IntelliJ Idea](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea?msclkid=b9e9588ece8e11ec9a461daf5dc5f705)  
+[Download Visual Studio Code](https://code.visualstudio.com/download)  
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows)  
 [OpenJDK da Azul Zulu](https://www.azul.com/downloads/?package=jdk)  
 [Repositorio do curso - Instrutora Camila](https://github.com/cami-la/curso-dio-dominando-ides-java)  
