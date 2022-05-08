@@ -1,0 +1,170 @@
+>>>>>>>> Dominando IDEs Java <<<<<<<
+06/05/2022 - Prof. Camila Cavalcante
+
+1) Apresentação e visão geral
+- Apresentação do curso
+Configurar ambiente de desenvolvimento Java no SO Linux e 
+Windows. Conhecer IDEs Eclipse IDE e Intellij IDEA IDE.
+
+- Visão geral do curso
+Historia, plataforma, linguagem, versoes de Java, IDE.
+Lgm compilada no JDK, lida no JVM, interpretada no JRE.
+Lema do Java: “Write once. Run anywhere” = WORA
+Escreva uma vez e rode em qualquer lugar.
+JRE tem dentro a JVM. São edições do Java:
+JAVA SE (Java Platform, Standard Edition) = base da pla-
+taforma, traz classes comuns entre as plataforma.
+JAVA EE (Java Platform, Enterprise Edition) = cuida do 
+desenvolvimento web.
+JAVA EE (Java Platform, Micro Edition) = desenvolvimento
+de disp moveis e sist. embarcados(calc, modem, contr. remoto).
+Versoes do Java: JDK Oracle (paga) e OpenJDK (open source)
+Versao LTS é Java 11 e SE 17 (set 2021). Nas empresas são
+usadas as versoes LTS que são de longo suporte.
+IDE é similar a um editor de texto. 
+Groovy, Jython, JRuby são outras lgms plataforma Java
+Vantagem da pltaforma Java é não depender de único software
+ou hardware, podendo ser emulada por uma maquina virtual.
+
+[O que é Java?](https://constantetecnologia.com.br/tutoriais/o-que-e-java/)
+[Java (lenguaje de programación)](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
+[Java 15 - Novidades (ou não)](https://www.guiadojava.com.br/2020/07/java-15-novidades-ou-nao.html)
+[Repositorio do curso - Instrutora Camila](https://github.com/cami-la/curso-dio-dominando-ides-java)
+
+
+2) Ambiente de desenvolvimento Ubuntu
+- Instalação JDK e Git no Ubuntu
+Sem conexao com internet no desktop linux.
+
+- Instalação Intellij e Eclipse no Ubuntu
+Seguir passos para Linux no repositorio da instrutora.
+[Intellij](https://www.jetbrains.com/idea/download/#section=windows)
+
+
+3) Ambiente de desenvolvimento Windows
+- Instalação JDK e Git no Windows
+Instalação do OpenJDK da Zulu porque performa bem.
+[OpenJDK da Azul Zulu](https://www.azul.com/downloads/?package=jdk)
+C:\Program Files\Java\zulu11.56.19-ca-jdk11.0.15-win_x64
+Criado programa no bloco de notas de classe em Java; tive
+erro na compilação "cannot find symbol", por escrever errado
+na 2a lin (Strings no lugar String). 
+Achei uma solução em tutorialspoint.com: 
+[What can cause the "cannot find symbol" error in Java?](https://www.tutorialspoint.com/what-can-cause-the-cannot-find-symbol-error-in-java#:~:text=The%20%E2%80%9Ccannot%20find%20symbol%E2%80%9D%20error,variable%20we%20are%20referring%20to.)
+Compilação: entrar no diretorio que tem o arquivo do código,
+## usar comando "javac" + nome do arq.java + enter.
+Se houver erro (digitacao) terá msgm e um sinal de acento 
+circunflexo abaixo do comando errado. Se compilação der 
+certo, reaparece cursor no terminal com caminho do diretorio
+em uso. Aparece na pasta um arq.class depois da compilação.
+## Executar programa: java + nome da class (sem .class)
+java PrimeiroPrograma 
+Antes de executar arq modificado, precisa compilar de novo.
+
+- Instalação Intellij e Eclipse no Windows
+Eclipse já estava instalado, versao 2021-12 for Enterprise 
+and Web Developers.
+[Intellij](https://www.jetbrains.com/idea/download/#section=windows)
+
+
+4) Eclipse
+- Criando seu primeiro projeto com Eclipse
+## Criar projeto em java: "ctrl + N"
+Responder "Don't create" para janela de pergunta sobre mod.
+Na IDE, digitar partes do comando, pressionar ctrl + espaço
+pra abrir menu com sugestões de linhas a serem escritas au-
+tomaticamente pela IDE.
+
+- Atalhos
+Atalho para construtor: Barra de menus/Code/Generate...
+(ou digitar Alt + Insert), escolher as classes ou nenhuma.
+Falhou execução de PrimeiroPrograma.java após inclusao de
+classes Gato (importada) e Livros, usando o Run da barra 
+superior. Como a msg indicava que não achou a public class
+PrimeiroPrograma, executei pelas setas verdes que tinham
+ao lado de public class e public static void. Fazendo isso
+rodou conforme previsto, classe Gato com inputs null e o
+endereço de memoria da classe Livros. 
+ctrl + shift + C = para comitar bloco de código
+ctrl + D = deleta linha
+
+- Git e GitHub
+Link do repositorio para teste:
+https://github.com/rosacarla/Teste-curso-dio-IDEs-java
+Versionamento feito com a IDE: criei diretorio git na area
+de trabalho, dentro da pasta criei o projeto.java e marquei
+a opção de criar repositorio no GitHub na janela inicial de
+configuraçoes do projeto. Ficou outra pasta com o projeto
+dentro do diretorio git. Abri o projeto na IDE, cliquei no
+ícone verde para commit, apareceu a lista de arquivos que
+subiriam ao repo, digitei mensagem "first commit", cliquei
+em Commit and Push. Abre janela para definir o repo remoto,
+cliquei nesse link e colei URL do repo GitHub. Confirmei.
+Subiu tudo para o branch master, não fica no main.
+Versionamento feito pela linha de comando:
+cmd = abrir terminal windows
+cd pasta do projeto
+git init = inicia repo, adiciona extensão .git ao caminho
+git status
+git add . = adiciona tudo da pasta -crackeado- pra commit
+git commit -m "first commit" = adiciona msg 
+git remote add origin https://github.com/rosacarla/Teste-sem-ide.git
+git push -u origin master (enter)
+opções 1.web browser 2 personal access token
+pede user name/senha ou token
+
+- Debug
+Serve para procurar erros no programa e corrigi-los.
+Scanner scan = new Scanner(System.in) - IDE sugeriu que se
+importasse java.util.Scanner. 
+ctrl + shift + T = abre janela pra buscar tipos (ex. class)
+
+
+- Últimas observações sobre Ecplipse
+Java Build Path - pode alterar a versão do Java para usar
+na IDE.
+
+
+5) Intellij
+- Criando seu primeiro projeto com Intellij
+Tem opção de trabalhar com projeto em versionamento por 
+meio do GitHub. 
+ctrl + shift + / = para comitar bloco de codigo
+alt + insert abre menu do Generate para getter/setter,
+toString(), Construtor etc. 
+ctrl + alt + O = apagar import nao utilizado
+ctrl + Y = apaga linha (opção delete line)
+shift + ctrl + barra = descomitar
+sout = puxa comando System.out println()
+shift F10 = roda codigo
+
+- Mais atalhos e versionamento
+shift F6 = refatora a classe, renomeia
+ctrl + alt + L = refaz a indentação
+ctrl + D = duplica a linha
+ctrl + shift + seta pra cima = troca linha de lugar(cima
+ou pra baixo)
+[Atalhos do IntelliJ Idea](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea?msclkid=b9e9588ece8e11ec9a461daf5dc5f705)
+repo teste: https://github.com/rosacarla/Teste-ide-intellij.git
+ctrl + K = abre janela pra Commit
+ctrl + shift + K = abre janela pra Push
+ctrl F4 = fechar abas
+ctrl N = buscar classe 
+ctrl + B = entrar na classe
+
+- Debug
+Usar botoes da barra de debug.
+
+- Plugins
+Key Promoter X = mostra atalhos de teclado para botões 
+GitToolBox = mostra descrição dos commits
+Rainbow Brackets = deixa chaves coloridas
+Nyan Progress Bar = barra de processamento fica colorida
+One Dark Theme = tema escuro com letras coloridas, não 
+precisa reiniciar.
+
+- Outra opção de IDE: Visual Studio Code
+[Download Visual Studio Code](https://code.visualstudio.com/download)
+Instalado tema GitHub
+Clone de repositorio: git@github.com:cami-la/curso-dio-dominando-ides-java.git
+Já tinha instalada a Java Extension Pack
