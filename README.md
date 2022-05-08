@@ -74,7 +74,7 @@ Contato: rosa.carla@pucpr.edu.br
 
 ## 🔗 Links Úteis  
 
-[Java (lenguaje de programación)](https://es.wikipedia.org/wiki/Java_lenguaje_de_programaci%C3%B3n)  
+[Java (lenguaje de programación)](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))  
 [Java 15 - Novidades (ou não)](https://www.guiadojava.com.br/2020/07/java-15-novidades-ou-nao.html)  
 [O que é Java?](https://constantetecnologia.com.br/tutoriais/o-que-e-java/)  
 
