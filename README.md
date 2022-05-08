@@ -18,8 +18,8 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
     - [Introdução ao Git e GitHub](https://github.com/rosacarla/GFT-start-woman-java/tree/main/005%20Introducao-git-github)
     - [Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (desafio de projeto)](https://github.com/rosacarla/GFT-start-woman-java/tree/main/006%20Criando-repositorio-github)  
 
-* Módulo II - Setup  
-    - [Dominando IDEs Java]()    
+* ✅ Módulo II - Setup  
+    - [Dominando IDEs Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/007%20Dominando-IDEs-Java)    
 
 * Módulo III - Java Fundamental 
     - [Variáveis, Tipos de Dados e Operadores Matemáticos em Java]()  
