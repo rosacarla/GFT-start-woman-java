@@ -2,20 +2,17 @@
 
 ## Conteúdos do curso:  
 
-1) Conceituação e criação  
-- Introdução  
-- Conceituação e criação  
-- Exercitando  
-2) Tipos de dado  
-- Tipos de dado  
-- Exercitando 
-3) Operadores Aritméticos  
-- Operadores aritméticos  
-- Exercitando  
- 4) Conversões (casting)  
-- Conversões (casting)  
-- Encerramento  
-- Exercitando
+_1) Conceituação e criação_  
+Introdução | Conceituação e criação | Exercitando  
+
+_2) Tipos de dados_  
+Tipos de dados | Exercitando  
+
+_3) Operadores Aritméticos_  
+Operadores aritméticos | Exercitando  
+
+_4) Conversões (casting)_  
+Conversões (casting) | Encerramento | Exercitando  
 
 ---
 
@@ -41,9 +38,9 @@
     }
 ```
  
-**- Códigos das aulas práticas
+**- Códigos das aulas práticas**
 
-| [Variáveis]() | [Tipos de dados]() | [Operadores aritméticos]() | [Conversões (casting)]() |
+| [Variáveis](https://github.com/rosacarla/GFT-start-woman-java/blob/main/008%20Variaveis-tipos-dados-operad-matematicos/codes/VariaveisExercicios.java) | [Tipos de dados](https://github.com/rosacarla/GFT-start-woman-java/blob/main/008%20Variaveis-tipos-dados-operad-matematicos/codes/TiposDados.java) | [Operadores aritméticos](https://github.com/rosacarla/GFT-start-woman-java/blob/main/008%20Variaveis-tipos-dados-operad-matematicos/codes/OperadoresMatematicos.java) | [Conversões (casting)](https://github.com/rosacarla/GFT-start-woman-java/blob/main/008%20Variaveis-tipos-dados-operad-matematicos/codes/ConversoesExercicios.java) |
 
 ---
 
