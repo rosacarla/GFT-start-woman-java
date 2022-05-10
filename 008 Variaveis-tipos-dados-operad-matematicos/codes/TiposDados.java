@@ -1,115 +1,58 @@
 /**
- * Classe de exemplo pra exercício da Aula 3.
+ * Classe de exemplo pra exercício da Aula 2.
  */
 
 public class TiposDados {
-
     public static void main(String[] args) {
 
-        System.out.println("PrePos");
-        prePos();
-        System.out.println("Aritmético");
-        aritmetico();
-        System.out.println("Atribuição");
-        atribuicao();
-        System.out.println("Precedência");
-        precedencia();
+        byte b1 = 10;
+        byte b2 = 20;
 
-    }
+        short s1 = 20000;
+        //short s2 = 40000;  /*tamanho extrapola o previsto pra short até 32.767
 
-    private static void prePos() {
+        //int i1 = -10.000.000.000; /* tam. extrapola o previsto pra int até -2.147.483.647
+        int i2 = 28500;
 
-        int k = 10;
+        long l1 = 1000000000000000000L; /*tam. de long até 9.223.372.036.854.775.807*/
+        long l2 = 2004005000500055000L;
 
-        int i = ++k;  /*pre fixado i = k+1;   */
-        int j = k--;  /*pos fixado j = k; k = k-1; */
-        int x = k;
+        //float f1 = 4.5; /* falta F do float, sem ele Java interpreta como double*/
+        float f2 = 10.68F;    /*tanto faz L ou l, F ou f*/
 
-        System.out.println("i:" + i);
-        System.out.println("j:" + j);
-        System.out.println("x:" + x);
+        double d1 = 85.69;  /* Java infere que é double mesmo sem D*/
+        double d2 = 99.04D; /*declaracao explicita de double com D no final do nro*/
 
-    }
+        char c1 = 'W';
+        //char c2 = 'Tw';  /* char pode receber só 1 caractere */
+        char c3 = '\u0057';  /* codigo unicode da letra W */
 
-    private static void aritmetico() {
+        String st1 = "Fulano";  /*é abordado como primitivo porque texto é dado muito comum*/
+        String st2 = "Cicrano";  /*exceção de tipo de dado composto com uso como primitivo*/
+        String st3 = "ag dgb se  se et t KNBJBJBB &*¨&%& 75894389";
 
-        /*atribuicoes simples de variaveis */
-        int a = 10;
-        int b = 20;
-        int c = 30;
-        int d = 40;
-        int e = 50;
+        //String dt1 = "09/02/1981";   /*existe tipo de dado específico pra datas */
 
-        /* operacoes arit simples com resultados armazenados em var de resultado */
-        int r1 = a+b;
-        int r2 = c-a;
-        int r3 = d*b;
-        int r4 = e/a;
-        int r5 = c%b;
+        boolean bo1 = true;   /*pra valores logicos*/
+        boolean bo2 = false;
 
-        System.out.println("a+b " + r1);
-        System.out.println("c-a " + r2);
-        System.out.println("d*b " + r3);
-        System.out.println("e/a " + r4);
-        System.out.println("c%b " + r5);
-
-    }
-
-    private static void atribuicao() {
-
-        /*atribuicoes simples de var */
-        int i = 1500;
-        short j = 15;
-        long l = 500L;
-        int k = 35;
-        float f = 3.5f;
-        double d = f;
-
-        System.out.println("d:" + d);
-
-        /* atribuicoes compostas de var */
-        i += 5; // i = i + 5
-        j -= 3; // j = j - 3
-        d /= 2.7d; // d = d / 2.7d
-        l *= 3; // l = l * 3
-        k %= 2; // k = k % 2
-
-        System.out.println("i:" + i);
-        System.out.println("j:" + j);
-        System.out.println("d:" + d);
-        System.out.println("l:" + l);
-        System.out.println("k:" + k);
-
-        i = k = j;
-
-        System.out.println("k:" + k);
-        System.out.println("i:" + i);
-
-    }
-
-    private static void precedencia() { /*operacoes nao usuais no dia a dia */
-
-        int i = 10;
-        int j = 20;
-        int k = 30;
-
-        int a = i++ + --j * k; // 10 + 19 * 30 -> 10 + 570 -> 580
-
-        System.out.println("i++ + --j * k: " + a);
-
-        System.out.println("i: " + i); // 11
-
-        int b = k / --i % 3 + 1; // 30 / 10 % 3 + 1 -> 1
-
-        System.out.println("k / --i % 3 + 1: " + b);
-
-        System.out.println("i: " + i); // 10
-
-        int c = 2;
-
-        c *= i += 5; // c = 2 * i; i = i + 5 -> c = 2 * i; i = 10 + 5; -> c = 2 * 15; -> c = 2 * 15; c = 30
-
-        System.out.println("c *= i += 5: " + c);
+        System.out.println(b1);
+        System.out.println(b2);
+        System.out.println(s1);
+        System.out.println(i2);
+        System.out.println(b1);
+        System.out.println(l1);
+        System.out.println(l2);
+        System.out.println(f2);
+        System.out.println(d1);
+        System.out.println(d2);
+        System.out.println(c1);
+        System.out.println(c3);
+        System.out.println(st1);
+        System.out.println(st2);
+        System.out.println(st3);
+        System.out.println(bo1);
+        System.out.println(bo2);
 
     }
 }

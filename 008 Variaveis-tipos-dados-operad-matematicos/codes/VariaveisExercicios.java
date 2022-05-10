@@ -1,58 +1,54 @@
 /**
- * Classe de exemplo pra exercício da Aula 2.
+ * * Classe de exemplo pra exercicio da aula 1.
  */
 
 public class VariaveisExercicios {
+    /* main é o metodo + simpes do Java, inicia a execucao */
     public static void main(String[] args) {
 
-        byte b1 = 10;
-        byte b2 = 20;
+        int i;
+        //int i;  /* erro na definicao de var com mesmo nome */
+        int I;  /*nome aceito por ser i maiusculo */
+        //int 1a;  /* nome errado começa com nro */
+        int _1a; /*nao gera erro, uso de "_" fere boas práticas, melhor evitar */
+        int $aq; /*nao gera erro, uso de "$" fere boas práticas, melhor evitar */
 
-        short s1 = 20000;
-        //short s2 = 40000;  /*tamanho extrapola o previsto pra short até 32.767
+        /* inicialização de variaveis dentro do metodo main, atribuição de valores */
+        i = 5;
+        I = 10;
+        _1a = 20;
+        $aq = 7;
 
-        //int i1 = -10.000.000.000; /* tam. extrapola o previsto pra int até -2.147.483.647
-        int i2 = 28500;
+        final int j = 10;
+        //j = 15; /* constante j nao pode ter valor alterado */
+        int asrn24678md;  /* definicao pouco usual, mas correta, dificil de entender o nome*/
+        //int asrn246 78md; /*definicao errada com espaço */
+        int asrn2$4678_md;  /*nao gera erro, mas underline é recomendado em constantes */
+        //int asrn2$46%78_md = 11; /*definicao errada com caractere % */
 
-        long l1 = 1000000000000000000L; /*tam. de long até 9.223.372.036.854.775.807*/
-        long l2 = 2004005000500055000L;
+        /* atribuicao de valores iniciais às variaveis do 2o. grupo */
+        asrn24678md = 1000;
+        asrn2$4678_md = 10;
 
-        //float f1 = 4.5; /* falta F do float, sem ele Java interpreta como double*/
-        float f2 = 10.68F;    /*tanto faz L ou l, F ou f*/
+        int quantidadeProduto = 50;
+        //int QuantidadeProduto; /* nao é boa pratica definir var com 1a. letra maiuscula */
+        final int NUMERO_TENTATIVAS = 5;
+        //final int numeroTentativas = 5;   /* constante nao segue boa prática por nao começar com maiuscula*/
+        int QUANTIDADE_OPCOES = 25; /* var definida com escrita de constante, nao dá erro, nao é boa prática */
+        //int qtdProd; /*expressividade nao segue boa pratica */
 
-        double d1 = 85.69;  /* Java infere que é double mesmo sem D*/
-        double d2 = 99.04D; /*declaracao explicita de double com D no final do nro*/
+        /* comando System.out.println() usado pra mostrar saidas no console */
+        System.out.println(i);
+        System.out.println(I);
+        System.out.println(_1a);
+        System.out.println($aq);
 
-        char c1 = 'W';
-        //char c2 = 'Tw';  /* char pode receber só 1 caractere */
-        char c3 = '\u0057';  /* codigo unicode da letra W */
+        System.out.println(j);
+        System.out.println(asrn24678md);
+        System.out.println(asrn2$4678_md);
 
-        String st1 = "Fulano";  /*é abordado como primitivo porque texto é dado muito comum*/
-        String st2 = "Cicrano";  /*exceção de tipo de dado composto com uso como primitivo*/
-        String st3 = "ag dgb se  se et t KNBJBJBB &*¨&%& 75894389";
-
-        //String dt1 = "09/02/1981";   /*existe tipo de dado específico pra datas */
-
-        boolean bo1 = true;   /*pra valores logicos*/
-        boolean bo2 = false;
-
-        System.out.println(b1);
-        System.out.println(b2);
-        System.out.println(s1);
-        System.out.println(i2);
-        System.out.println(b1);
-        System.out.println(l1);
-        System.out.println(l2);
-        System.out.println(f2);
-        System.out.println(d1);
-        System.out.println(d2);
-        System.out.println(c1);
-        System.out.println(c3);
-        System.out.println(st1);
-        System.out.println(st2);
-        System.out.println(st3);
-        System.out.println(bo1);
-        System.out.println(bo2);
-
+        System.out.println(quantidadeProduto);
+        System.out.println(NUMERO_TENTATIVAS);
+        System.out.println(QUANTIDADE_OPCOES);
     }
 }
