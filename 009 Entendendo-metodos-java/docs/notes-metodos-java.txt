@@ -1,0 +1,105 @@
+>>>>>>>> 10/05/2022 <<<<<<<<
+Entendendo Métodos Java - Prof. Thiago Leite
+
+#################################################################
+
+1) Criação
+- Introdução ao Curso
+Método = o que faz o programa funcionar, toda execução de sof-
+tware está centrada em seus métodos.
+Requisitos: logica de progr., Java 11, IntelliJ
+
+- Conceituação de métodos
+O QUE É MÉTODO, como definir e utilizar, boas práticas para 
+criação e uso de métodos. Todo método é criado dentro de uma 
+classe, executado quando é chamado pelo programa.
+
+- Definição
+<?visibilidade?><?tipo?><?modificador?>retorno 
+nome(<?parâmetros?><?exceções?>corpo
+"void" = executa operação e não retorna nada
+V, T, M = usados em POO
+V, R, N, P, E, C = mais utilizados
+Corpo do método é o que está englobado pelas chaves {}.
+Corpo vazio de método: public substract void executar();
+padrao de metodo: public static Ret Nome(Parametro) {...}
+Em Java, classe tem sempre 1ª letra maiuscula e metodo tem 
+1ª letra minuscula.
+
+- Conceitos inerentes aos métodos e boas práticas na sua criação
+Assinatura de metodo = nome e parametros. A assinatura pode 
+ser também um nome e parâmetro vazio {}.
+Assinatura é conceito base para trabalhar com sobrecarga.
+Construtor e Destrutor usados em POO.
+Passagem de parametro = por valor (copia) por referencia 
+(endereço).
+notação camelo: verificarSaldo(); executarTransferencia(...);
+existeDebito();  ==> usar verbos e  substantivos
+Quanto mais linhas no método mais dificil fica de mantê-lo e
+entendê-lo. Lista de parâmetros longas geram acoplamento muito
+forte, ligado à POO.
+[Java Methods](https://www.w3schools.com/java/java_methods.asp)
+
+- Apresentação do exercício
+É comum chamar um método dentro de outro, porque metodos tra-
+balham em conjunto. Pode diminuir os metodos e gerar reapro-
+veitamento de código.
+
+- Exercício prático
+Criado projeto em Java: methods-exercises
+
+- GitHub do exercício 1
+https://github.com/tlcdio/MAula01
+
+
+2) Sobrecarga
+- Como criar sobrecargas, usá-las e exercício prático
+Na sobrecarga, o nesmo metodo se comportará de modo diferente
+conforme a necessidade em cada contexto. Para isto, mantém-se
+o nome e muda-se a lista de parametros.
+Parâmetro RoundType rd arredonda nro pra baixo ou pra cima.
+A sobrecarga é valida se há alteração na ordem de parâmetros
+já passados ou se forem totalmente retirados.
+Exemplo: println recebe sobrecarga pela possibilidade de uso
+de diversos parâmetros. 
+[PrintStream](https://docs.oracle.com/javase/7/docs/api/java/io/PrintStream.html)
+[Class String](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
+
+Sobrescrita - conceito ligado à POO e compreensao do conceito
+de herança; atua sobre métodos, modo diferente de trabalhar,
+quando comparado à sobrecarga.
+[Java Method Overloading](https://www.w3schools.com/java/java_methods_overloading.asp)
+
+- Resolução do exercício prático
+Criado projeto Java: overloading-exercise
+
+- GitHub do exercício 2
+https://github.com/tlcdio/MAula02
+
+
+3) Retornos
+- Funcionamento, Considerações, uso de retornos e apresentação
+do exercício
+Return = instrução de interrupção
+Exemplo: metodo deve ser público, sem retorno, cahmar xpto, ter
+int como parametro e corpo vazio; é definido deste modo:
+// public void xpto(int i){}
+Esemplo: a partir do metodo public int verifica(int i) {...}, é
+implementação correta: //public int verifica(int i) {return 0;}
+
+- Resolução do exercício prático
+Criado projeto Java: return-exercise
+Código Emprestimo.java do projeto methods-exercises exemplifica 
+metodos com retornos.
+
+- Encerramento do curso 
+[Orientação a Objetos](https://www.casadocodigo.com.br/products/livro-oo-conceitos)
+[Defining Methods](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
+[Returning a Value from a Method](https://docs.oracle.com/javase/tutorial/java/javaOO/returnvalue.html)
+[Passing Information to a Method or a Constructor](https://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html)
+
+
+- GitHub do exercício 3
+https://github.com/tlcdio/MAula03
+
+
