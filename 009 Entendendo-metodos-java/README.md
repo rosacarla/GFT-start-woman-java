@@ -67,9 +67,9 @@ do exercício | Resolução do exercício prático | Encerramento do curso
  
 **- Códigos das aulas práticas**
 
-[Projeto methods-exercises: Main - Calculadora - Mensagem - Emprestimo]()  
-[Projeto overloading-exercise: Main - Quadrilatero]()  
-[Projeto return-exercise: Main - Quadrilateral]()  
+[Projeto methods-exercises: Main - Calculadora - Mensagem - Emprestimo](https://github.com/rosacarla/GFT-start-woman-java/tree/main/009%20Entendendo-metodos-java/codes-exercises/methods-exercises/src/dio/com/bootcamp)  
+[Projeto overloading-exercise: Main - Quadrilatero](https://github.com/rosacarla/GFT-start-woman-java/tree/main/009%20Entendendo-metodos-java/codes-exercises/overloading-exercise/src/dio/com/bootcamp)  
+[Projeto return-exercise: Main - Quadrilateral](https://github.com/rosacarla/GFT-start-woman-java/tree/main/009%20Entendendo-metodos-java/codes-exercises/return-exercise/src/dio/com/bootcamp)  
 
 ---
 
