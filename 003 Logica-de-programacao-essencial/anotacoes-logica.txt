@@ -105,7 +105,7 @@ Estrutura que executa mais de uma vez o mesmo comando ou
 cj de comandos, conforme condição (if) ou contador (for).
 Exemplo: relatorio pra exibir 5000 clientes da empresa,
 sem repetir comandos para cada cliente existente.
-Exercicio proposto: reoproduzir a tabuada do 9
+Exercicio proposto: reproduzir a tabuada do 9
 
 - O que são linguagens de programação
 Lgm escrita e formal que especifica cj de instruções e 
