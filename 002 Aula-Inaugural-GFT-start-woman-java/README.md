@@ -1,4 +1,4 @@
-# Mentoria - Aula Inaugural - GFT Start Woman Java
+# 🥇 Mentoria - Aula Inaugural - GFT Start Woman Java
 
 Chegou a hora de você começar a criar sua nova jornada!
 Nesta mentoria, abordaremos o passo a passo completo para
@@ -13,13 +13,13 @@ projetos, desafios de código e muito mais!
 
 ---  
 
-## Frase da mentoria  
+## 📝 Frase da mentoria  
 
 > #### _"Ninguém fica pra trás! :)"_  
 
 ---
 
-## Hashtags sugeridas para usar em redes sociais  
+## #️⃣ Hashtags sugeridas para usar em redes sociais  
 
 #### #GFTStartWomanJavaDIO  
 
@@ -30,7 +30,7 @@ projetos, desafios de código e muito mais!
 
 ---  
 
-## Links úteis  
+## 🔗 Links úteis  
 
 [Suporte técnico da DIO](https://help.dio.me)  
 
