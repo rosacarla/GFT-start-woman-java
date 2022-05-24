@@ -1,10 +1,10 @@
-# Lógica de Programação Essencial  
+# 🖥️ Lógica de Programação Essencial  
 
 <p align="center">
 	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/003%20Logica-de-programacao-essencial/images/conceito-logica.jpg" width="500">
 </p>
 
-## Conteúdos do curso:  
+## 📑Conteúdos do curso:  
 
 1) Introdução à logica e à programação
 - Entendendo o que é lógica  
@@ -22,7 +22,7 @@ programação
 
 ---
 
-## Algumas práticas realizadas  
+## 🧰 Algumas práticas realizadas  
 
 - Construção de casa utilizando laço de repetição e Minecraft, no site Code.org.
 </br>
@@ -72,7 +72,7 @@ public class JavaApplication {
 
 ---
 
-## Links úteis  
+## 🔗Links úteis  
 
 [Hour of Code Minecraft](https://studio.code.org/s/mc/stage/1/puzzle/1)  
 [Jogo do lobo, ovelha, repolho](https://www.proprofs.com/games/wolf-sheep-and-cabbage/)  
