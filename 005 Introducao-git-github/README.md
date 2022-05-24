@@ -1,4 +1,4 @@
-# Introdução ao Git e ao GitHub
+# 📂 Introdução ao Git e ao GitHub
 
 ## Tópicos do curso  
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Dados adicionais  
+## 🗒️Dados adicionais  
 
 Curso finalizado em 18/07/2021.  
 
