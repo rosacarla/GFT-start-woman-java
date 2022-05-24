@@ -1,4 +1,4 @@
-# Lógica condicional e controle de fluxo em Java
+# 🧠Lógica condicional e controle de fluxo em Java
 
 ## Conteúdos do curso:  
 
@@ -16,22 +16,22 @@ Blocos, tipos e uso | Encerramento do curso
 
 ---
 
-## Algumas práticas realizadas  
+## ⏳Algumas práticas realizadas  
 
 * Códigos das aulas práticas  
-[Projeto flow-control]()  
-[Projeto logical-operators]()  
-[Projeto relational-operators]()  
+[Projeto flow-control](https://github.com/rosacarla/GFT-start-woman-java/blob/main/010%20Logica-condicional-controle-fluxos-Java/codes-exercises/flow-control/src/dio/com/bootcamp/Main.java)  
+[Projeto logical-operators](https://github.com/rosacarla/GFT-start-woman-java/blob/main/010%20Logica-condicional-controle-fluxos-Java/codes-exercises/logical-operators/src/dio/com/bootcamp/Main.java)  
+[Projeto relational-operators](https://github.com/rosacarla/GFT-start-woman-java/blob/main/010%20Logica-condicional-controle-fluxos-Java/codes-exercises/relational-operators/src/dio/com/bootcamp/Main.java)  
 
 ---
 
-## Links úteis  
+## 🔗Links úteis  
 
 [Bitwise and Bit Shift Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html)  
-[Control Flow Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
-[Equality, Relational, and Conditional Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op2.html)
-[Summary of Control Flow Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flowsummary.html)
+[Control Flow Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  
+[Equality, Relational, and Conditional Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op2.html)  
+[Summary of Control Flow Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flowsummary.html)  
 [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)  
-[The switch Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html) 
+[The switch Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)  
 
 ---
