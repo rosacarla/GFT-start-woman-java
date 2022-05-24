@@ -10,34 +10,34 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 
 ## 📑 **Conteúdos do bootcamp:**  
 
-* ✅ Módulo I - Conteúdo de abertura  
-    - [Boas-vindas ao Bootcamp GFT Start Woman Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/001%20Bootcamp-GFT-start-woman)
-    - [Mentoria - Aula Inaugural - GFT Start Woman](https://github.com/rosacarla/GFT-start-woman-java/tree/main/002%20Aula-Inaugural-GFT-start-woman-java)
+✅ Módulo I - Conteúdo de abertura  
+    - [Boas-vindas ao Bootcamp GFT Start Woman Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/001%20Bootcamp-GFT-start-woman)  
+    - [Mentoria - Aula Inaugural - GFT Start Woman](https://github.com/rosacarla/GFT-start-woman-java/tree/main/002%20Aula-Inaugural-GFT-start-woman-java)  
     - [Lógica de Programação Essencial](https://github.com/rosacarla/GFT-start-woman-java/tree/main/003%20Logica-de-programacao-essencial)  
     - [Aprenda o que são Estruturas de Dados e Algoritmos](https://github.com/rosacarla/GFT-start-woman-java/tree/main/004%20Aprenda-estruturas-dados-algoritmos)  
-    - [Introdução ao Git e GitHub](https://github.com/rosacarla/GFT-start-woman-java/tree/main/005%20Introducao-git-github)
+    - [Introdução ao Git e GitHub](https://github.com/rosacarla/GFT-start-woman-java/tree/main/005%20Introducao-git-github)  
     - [Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (desafio de projeto)](https://github.com/rosacarla/GFT-start-woman-java/tree/main/006%20Criando-repositorio-github)  
 
-* ✅ Módulo II - Setup  
+✅ Módulo II - Setup  
     - [Dominando IDEs Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/007%20Dominando-IDEs-Java)    
 
-* Módulo III - Java Fundamental 
-    - [Variáveis, Tipos de Dados e Operadores Matemáticos em Java]()  
-    - [Entendendo Métodos Java]()  
-    - [Lógica Condicional e Controle de Fluxos em Java]()  
-    - [Estruturas de Repetição e Arrays em Java]()  
+✅ Módulo III - Java Fundamental 
+    - [Variáveis, Tipos de Dados e Operadores Matemáticos em Java](https://github.com/rosacarla/GFT-start-woman-java/blob/main/008%20Variaveis-tipos-dados-operad-matematicos/README.md)  
+    - [Entendendo Métodos Java](https://github.com/rosacarla/GFT-start-woman-java/blob/main/009%20Entendendo-metodos-java/README.md)  
+    - [Lógica Condicional e Controle de Fluxos em Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/010%20Logica-condicional-controle-fluxos-Java)  
+    - [Estruturas de Repetição e Arrays em Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/011%20Estrutura-repeticao-arrays)  
     - [Trabalhando com Collections Java]()  
     - [Como resolver desafios de código]()  
     - [Desafios Iniciais Java - GFT Start Woman (desafio de código)]()  
 
-* Módulo IV - Java Essencial
+* Módulo IV - Java Essencial  
     - [Debugging Java]()  
     - [Tratamento de Exceções em Java]()  
     - [Programação Orientada a Objetos]()  
     - [Criando um Banco Digital com Java e Orientação a Objetos (desafio de projeto)]()  
-    - [Abstraindo Situações do Mundo Real em Orientação a Objetos]()  
+    - [Abstraindo Situações do Mundo Real em Orientação a Objetos (mentoria)](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java)  
     - [Desafio Intermediários Java - GFT Start Woman (desafio de código)]()  
-
+      
 * Módulo V - Arquitetura de Sistemas 
     - [Introdução ao HTTP/HTTPS]()  
 
