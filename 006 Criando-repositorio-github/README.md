@@ -1,4 +1,4 @@
-# Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (desafio de projeto)
+# 🗂️Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (desafio de projeto)
 
 ## Para entender o desafio de projeto
 * Descrição do Desafio  
@@ -9,7 +9,7 @@ o primeiro (de muitos) projetos do seu portfólio ;)
 
 ---
 
-## Projeto executado
+## 📦 Projeto executado
 
 Nome do repositório: GFT-start-woman-java  
 Disponível em: https://github.com/rosacarla/GFT-start-woman-java  
@@ -20,7 +20,7 @@ Disponível em: https://github.com/rosacarla/GFT-start-woman-java
 
 ---
 
-## Links úteis  
+## 🔗 Links úteis  
 
 [GitHub README Templates](https://www.readme-templates.com/)  
 [Markdown Guide](https://www.markdownguide.org/)  
