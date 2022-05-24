@@ -1,6 +1,6 @@
-# Entendendo Métodos Java
+# 📌 Entendendo Métodos Java
 
-## Conteúdos do curso:  
+## 📑 Conteúdos do curso:  
 
 _1) Criação_  
 Introdução ao Curso | Conceituação de métodos | Definição | Conceitos inerentes aos métodos e boas práticas na sua criação | Apresentação do exercício | Exercício prático  
@@ -14,7 +14,7 @@ do exercício | Resolução do exercício prático | Encerramento do curso
 
 ---
 
-## Algumas práticas realizadas  
+## 🧰 Algumas práticas realizadas  
 
 **- Criação do método "calcular" para cálculo de um empréstimo de dinheiro** 
 ```java
@@ -73,7 +73,7 @@ do exercício | Resolução do exercício prático | Encerramento do curso
 
 ---
 
-## Links úteis  
+## 🔗 Links úteis  
 
 [Class String](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)  
 [Defining Methods](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)  
