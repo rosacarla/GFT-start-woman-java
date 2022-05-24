@@ -1,6 +1,6 @@
-# Aprenda o que são Estrutura de Dados e Algoritmos
+# ⚛️ Aprenda o que são Estrutura de Dados e Algoritmos
 
-## Conteúdos do curso:  
+## 📑Conteúdos do curso:  
 
 1) Conceitos iniciais sobre estrutura de dados, arrays e registro  
 - Introdução e objetivos 
@@ -21,7 +21,7 @@
 
 ---
 
-## Algumas práticas realizadas  
+## 🧰 Algumas práticas realizadas  
 
 - Pseudocódigo com Portugol para criar vetor
 
@@ -51,7 +51,7 @@ programa
 
 ---
 
-## Links úteis  
+## 🔗Links úteis  
 
 [Estruturas de dados - Pilhas, Filas, Listas](http://sites.poli.usp.br/p/fabio.cozman/Didatico/Comp/Material/estruturas.pdf)  
 [Estruturas de dados - Recapitulação](http://www.inf.ufsc.br/~aldo.vw/estruturas/Capitulo2/EstruturasPilha.html)  
