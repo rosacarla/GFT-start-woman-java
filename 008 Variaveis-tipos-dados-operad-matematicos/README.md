@@ -1,6 +1,6 @@
-# Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+# ☕ Variáveis, Tipos de Dados e Operadores Matemáticos em Java
 
-## Conteúdos do curso:  
+## 📖 Conteúdos do curso:  
 
 _1) Conceituação e criação_  
 Introdução | Conceituação e criação | Exercitando  
@@ -16,7 +16,7 @@ Conversões (casting) | Encerramento | Exercitando
 
 ---
 
-## Algumas práticas realizadas  
+## 🧰 Algumas práticas realizadas  
 
 **- Precedência de operadores em expressões numéricas** 
 
@@ -44,7 +44,7 @@ Conversões (casting) | Encerramento | Exercitando
 
 ---
 
-## Links úteis  
+## 🔗 Links úteis  
 
 [Java Language Keywords](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html)  
 [LearnJavaOnline.org](https://www.learnjavaonline.org/)
