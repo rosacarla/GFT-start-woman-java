@@ -47,7 +47,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 
 * **Mentorias (lives):**  
     28/04/2022 - Desafio do mercado tech para mulheres  
-    23/05/2022 - Desafio Técnico GFT  
+    23/05/2022 - [Desafio Técnico GFT](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico)  
 
 ---
 
