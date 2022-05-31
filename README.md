@@ -30,7 +30,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
     - [Como resolver desafios de código]()  
     - [Desafios Iniciais Java - GFT Start Woman (desafio de código)]()  
 
-* ✅ Módulo IV - Java Essencial  
+✅ Módulo IV - Java Essencial  
     - [Debugging Java]()  
     - [Tratamento de Exceções em Java]()  
     - [Programação Orientada a Objetos]()  
@@ -38,14 +38,14 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
     - [Abstraindo Situações do Mundo Real em Orientação a Objetos (mentoria)](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java)  
     - [Desafio Intermediários Java - GFT Start Woman (desafio de código)]()  
       
-* ✅ Módulo V - Arquitetura de Sistemas 
+✅ Módulo V - Arquitetura de Sistemas 
     - [Introdução ao HTTP/HTTPS]()  
 
-* ✅ Módulo VI - Java Avançado
+✅ Módulo VI - Java Avançado
     - [Simplificando Projetos Java com o Spring Boot]()
     - [Explorando Padrões de Projetos na Prática com Java (desafio de projeto)](https://github.com/rosacarla/Padroes-de-projeto-com-Java)  
 
-* ✅ **Mentorias (lives):**  
+✅ **Mentorias (lives):**  
     28/04/2022 - Desafio do mercado tech para mulheres  
     23/05/2022 - [Desafio Técnico GFT](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico)  
 
