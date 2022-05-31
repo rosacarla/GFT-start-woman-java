@@ -4,7 +4,7 @@
 
 > #### _A vontade de aprender, se for maior que o medo de errar, já é um bom começo._  
 
-> #### _It's coffe time!_  
+> #### _It's coffee time!_  
 
 > #### _It's Java time!_  
 
