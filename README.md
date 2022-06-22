@@ -25,7 +25,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 ✅ Módulo II - Setup  
     - [Dominando IDEs Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/007%20Dominando-IDEs-Java)    
 
-✅ Módulo III - Java Fundamental 
+✅ Módulo III - Java Fundamental  
     - [Variáveis, Tipos de Dados e Operadores Matemáticos em Java](https://github.com/rosacarla/GFT-start-woman-java/blob/main/008%20Variaveis-tipos-dados-operad-matematicos/README.md)  
     - [Entendendo Métodos Java](https://github.com/rosacarla/GFT-start-woman-java/blob/main/009%20Entendendo-metodos-java/README.md)  
     - [Lógica Condicional e Controle de Fluxos em Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/010%20Logica-condicional-controle-fluxos-Java)  
@@ -42,13 +42,13 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
     - [Abstraindo Situações do Mundo Real em Orientação a Objetos (mentoria)](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java)  
     - [Desafio Intermediários Java - GFT Start Woman (desafio de código)]()  
       
-✅ Módulo V - Arquitetura de Sistemas 
+✅ Módulo V - Arquitetura de Sistemas  
     - [Introdução ao HTTP/HTTPS]()  
 
-✅ Módulo VI - Java Avançado
-    - [Simplificando Projetos Java com o Spring Boot]()
+✅ Módulo VI - Java Avançado  
+    - [Simplificando Projetos Java com o Spring Boot]()  
     - [Explorando Padrões de Projetos na Prática com Java (desafio de projeto)](https://github.com/rosacarla/Padroes-de-projeto-com-Java)  
-
+    
 ✅ **Mentorias (lives):**  
     28/04/2022 - Desafio do mercado tech para mulheres  
     23/05/2022 - [Desafio Técnico GFT](https://github.com/rosacarla/Mentoria-GFT-Start-Java-Desafio-Tecnico)  
@@ -59,7 +59,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 
 Carga horária: 55 hs  
 Data de conclusão: prevista para 30/05/2022  
-Credencial do certificado nº: [X]()  
+Credencial do certificado nº: [5F2E9E39]()  
 
 ---
 
