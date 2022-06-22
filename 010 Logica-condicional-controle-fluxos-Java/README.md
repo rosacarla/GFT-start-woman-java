@@ -19,9 +19,15 @@ Blocos, tipos e uso | Encerramento do curso
 ## ⏳Algumas práticas realizadas  
 
 * Códigos das aulas práticas  
-[Projeto flow-control](https://github.com/rosacarla/GFT-start-woman-java/blob/main/010%20Logica-condicional-controle-fluxos-Java/codes-exercises/flow-control/src/dio/com/bootcamp/Main.java)  
-[Projeto logical-operators](https://github.com/rosacarla/GFT-start-woman-java/blob/main/010%20Logica-condicional-controle-fluxos-Java/codes-exercises/logical-operators/src/dio/com/bootcamp/Main.java)  
-[Projeto relational-operators](https://github.com/rosacarla/GFT-start-woman-java/blob/main/010%20Logica-condicional-controle-fluxos-Java/codes-exercises/relational-operators/src/dio/com/bootcamp/Main.java)  
+[1-Projeto flow-control](https://github.com/rosacarla/GFT-start-woman-java/blob/main/010%20Logica-condicional-controle-fluxos-Java/codes-exercises/flow-control/src/dio/com/bootcamp/Main.java)  
+[2-Projeto logical-operators](https://github.com/rosacarla/GFT-start-woman-java/blob/main/010%20Logica-condicional-controle-fluxos-Java/codes-exercises/logical-operators/src/dio/com/bootcamp/Main.java)  
+
+<p align="center">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/010%20Logica-condicional-controle-fluxos-Java/Testes_com_operadores_logicos.gif"
+       width="880">
+</p>
+
+[3-Projeto relational-operators](https://github.com/rosacarla/GFT-start-woman-java/blob/main/010%20Logica-condicional-controle-fluxos-Java/codes-exercises/relational-operators/src/dio/com/bootcamp/Main.java)  
 
 ---
 
