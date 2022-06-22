@@ -1,4 +1,7 @@
 package dio.com.bootcamp;
+
+import jdk.swing.interop.SwingInterOpUtils;
+
 /**
  * Classe de exemplo pro exercício da Aula 2 de Operadores lógicos e relacionais, Controle de fluxo e Blocos.
  */
@@ -45,32 +48,35 @@ public class Main {
         System.out.println("((i1 + i2) < (f2 - f1)) && true ==> " + (((i1 + i2) < (f2 - f1)) && true));
         System.out.println("(i1 > i2) || (f2 < f1) ==> " + ((i1 > i2) || (f2 < f1)));
 
+        //Inicializadas variaveis spara teste com operadores logicos
         double salarioMensal = 11893.58d;
         double mediaSalario = 10500d;
 
         int quantidadeDependentes = 4;
         int mediaDependentes = 2;
 
-        System.out.println("\nConjunto de variáveis pra verificar pagamento de auxílio");
-        System.out.println("salarioMensal = 11893.58d");
-        System.out.println("mediaSalario = 10500d");
+        System.out.println("------------------------------ TESTES COM OPERADORES LÓGICOS ------------------------------\n");
+        System.out.println("Conjunto de variáveis pra verificar pagamento de auxílio:");
+        System.out.println("salarioMensal = 11893.58d (em R$)");
+        System.out.println("mediaSalario = 10500d (em R$)");
         System.out.println("quantidadeDependentes = 4");
         System.out.println("mediaDependentes = 2\n");
 
         //operações lógicas entre variaveis
-        System.out.println("Salário mensal abaixo da média e quantidade de dependentes maior ou igual à média?");
+        System.out.println("TESTE 1: Salário mensal abaixo da média e quantidade de dependentes maior ou igual à média?");
         System.out.println((salarioMensal < mediaSalario) && (quantidadeDependentes >= mediaDependentes));
 
         //variaveis intermediarias
         boolean salarioBaixo = salarioMensal < mediaSalario;
         boolean muitosDependentes = quantidadeDependentes >= mediaDependentes;
 
-        System.out.println("\nSalário baixo e muitos dependentes?");
+        System.out.println("\nTESTE 2: Salário baixo e muitos dependentes?");
         System.out.println((salarioBaixo) && (muitosDependentes));
 
         //operação lógica simplificada
         boolean recebeAuxilio = (salarioBaixo) && (muitosDependentes); //var intermediaria
-        System.out.println("\nRecebe auxílio? " + recebeAuxilio);
+        System.out.println("\nTESTE 3: Recebe auxílio? ");
+        System.out.println(recebeAuxilio);
 
     }
 }
