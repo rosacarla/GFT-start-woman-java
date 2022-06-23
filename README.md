@@ -30,8 +30,8 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
     - [Entendendo Métodos Java](https://github.com/rosacarla/GFT-start-woman-java/blob/main/009%20Entendendo-metodos-java/README.md)  
     - [Lógica Condicional e Controle de Fluxos em Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/010%20Logica-condicional-controle-fluxos-Java)  
     - [Estruturas de Repetição e Arrays em Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/011%20Estrutura-repeticao-arrays)  
-    - [Trabalhando com Collections Java]()  
-    - [Como resolver desafios de código]()  
+    - [Trabalhando com Collections Java](https://github.com/rosacarla/GFT-start-woman-java/blob/main/012%20Trabalhando-com-collections-java/README.md)  
+    - Como resolver desafios de código (mentoria)  
     - [Desafios Iniciais Java - GFT Start Woman (desafio de código)]()  
 
 ✅ Módulo IV - Java Essencial  
