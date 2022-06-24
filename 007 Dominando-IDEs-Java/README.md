@@ -22,7 +22,7 @@ Criando seu primeiro projeto com IntelliJ | Mais atalhos e versionamento | Debug
 ## 🧰 Algumas práticas realizadas  
 
 **- Testes de versionamento de projetos**  
-| [teste 1: IDE Eclipse](https://github.com/rosacarla/Teste-curso-dio-IDEs-java) | [teste 2: sem IDE](https://github.com/rosacarla/Teste-sem-ide) | [teste 3: IDE IntelliJ](https://github.com/rosacarla/Teste-ide-intellij) |
+| [teste 1: IDE Eclipse](https://github.com/rosacarla/Teste-ide-eclipse) | [teste 2: sem IDE](https://github.com/rosacarla/Teste-sem-ide) | [teste 3: IDE IntelliJ](https://github.com/rosacarla/Teste-ide-intellij) |
 
 
 **- Criação de classes** 
