@@ -32,7 +32,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
     - [Estruturas de Repetição e Arrays em Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/011%20Estrutura-repeticao-arrays)  
     - [Trabalhando com Collections Java](https://github.com/rosacarla/GFT-start-woman-java/blob/main/012%20Trabalhando-com-collections-java/README.md)  
     - Como resolver desafios de código (mentoria)  
-    - [Desafios Iniciais Java - GFT Start Woman (desafio de código)]()  
+    - [Desafios Iniciais Java - GFT Start Woman (desafio de código)](https://github.com/rosacarla/GFT-start-woman-java/tree/main/013%20Desafios-iniciais-java)  
 
 ✅ Módulo IV - Java Essencial  
     - [Debugging Java]()  
