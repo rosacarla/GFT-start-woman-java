@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="carla"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-05-19 02:51:18 "/>
+        <attribute name="created" value="Y2FybGE7TEFQVE9QLTEzSDUxTVNUOzIwMjItMDUtMTg7IjExOjQ3OjU4ICI7Mjc0Mw=="/>
+        <attribute name="edited" value="Y2FybGE7TEFQVE9QLTEzSDUxTVNUOzIwMjItMDUtMTk7IjAyOjUxOjE4ICI7MTsyODQz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="H, P, media" type="Real" array="False" size=""/>
+            <output expression="&quot;Informe a quantidade de coxinhas: &quot;" newline="True"/>
+            <input variable="H"/>
+            <input variable="P"/>
+            <assign variable="media" expression="(H/P)"/>
+            <output expression="media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
