@@ -21,27 +21,24 @@ Final | Slide | GitHub |
 
 ## ✏️Práticas realizadas  
 
-* [Unchecked Exception]()
+* Unchecked Exception
 <p align="center">
-	<img src="" width="880">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/015%20Tratamento-de-excecoes-java/images/unchecked-exceptions-java.gif" width="880">
 </p>
 
-* [Checked Execption]()  
-
+* Checked Exception 
 <p align="center">
-	<img src="" width="880">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/015%20Tratamento-de-excecoes-java/images/checked-exceptions-java.gif" width="880">
 </p>  
 
-* [Execption Customizada 1]()  
-
+* Exception Customizada 1
 <p align="center">
-	<img src="" width="880">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/015%20Tratamento-de-excecoes-java/images/Exception_Customizada1.gif" width="880">
 </p>  
 
-* [Execption Customizada 2]()  
-
+* Exception Customizada 2
 <p align="center">
-	<img src="" width="880">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/015%20Tratamento-de-excecoes-java/images/Exception_Customizada2.gif" width="880">
 </p>  
 
 ---
