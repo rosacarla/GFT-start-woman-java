@@ -36,7 +36,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 
 ✅ Módulo IV - Java Essencial  
     - [Debugging Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/014%20Debugging-Java)  
-    - [Tratamento de Exceções em Java]()  
+    - [Tratamento de Exceções em Java](https://github.com/rosacarla/GFT-start-woman-java/tree/main/015%20Tratamento-de-excecoes-java)  
     - [Programação Orientada a Objetos]()  
     - [Criando um Banco Digital com Java e Orientação a Objetos (desafio de projeto)](https://github.com/rosacarla/Banco-digital-com-Java-POO)  
     - [Abstraindo Situações do Mundo Real em Orientação a Objetos (mentoria)](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java)  
@@ -59,7 +59,7 @@ Repositório criado para o desafio de projeto do bootcamp _GFT Start Woman Java_
 
 Carga horária: 55 hs  
 Data de conclusão: prevista para 30/05/2022  
-Credencial do certificado nº: [5F2E9E39]()  
+Credencial do certificado nº: [5F2E9E39](https://github.com/rosacarla/GFT-start-woman-java/blob/main/certificates-GFT/019%20GFT-Start-Woman-Java-5F2E9E39.pdf)  
 
 ---
 
