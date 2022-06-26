@@ -30,10 +30,10 @@
 
 ## 🔗Links úteis  
 
+[Compreendendo e usando para depurar o Java Stack Trace](https://pt.quish.tv/understanding-using-debug-java-stack-trace)   
 [Introducción al debugging de Java](https://javadesde0.com/introduccion-al-debugging-de-java/)  
 [Java Debug: técnicas para entender e melhorar o seu código](https://www.alura.com.br/conteudo/java-debug)  
 [Métodos, atributos e classes no Java](https://www.devmedia.com.br/metodos-atributos-e-classes-no-java/25404)  
-[Compreendendo e usando para depurar o Java Stack Trace](https://pt.quish.tv/understanding-using-debug-java-stack-trace)  
 [Tutorial: Debug your first Java application](https://www.jetbrains.com/help/idea/debugging-your-first-java-application.html)  
 
 ---  
