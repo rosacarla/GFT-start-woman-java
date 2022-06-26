@@ -1,4 +1,4 @@
-# Debugging Java 
+# 🐛 Debugging Java 
 
 ## 🗒️Conteúdos do curso:  
 
@@ -9,21 +9,21 @@
 
 ---  
 
-## 🧰 Algumaas práticas realizadas  
+## 🧰 Algumas práticas realizadas  
 
 * Debugging via IntelliJ do código CalculadoraDeMedias.java 
 <p align="center">
-	<img src="" width="750">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/014%20Debugging-Java/images/Debugging_via_IntelliJ_IDE.gif" width="750">
 </p>  
 
 * Execução após debugging via IntelliJ (eliminado motivo do bug com substituição do tipo de variável int por double) 
 <p align="center">
-	<img src="" width="750">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/014%20Debugging-Java/images/Execucao_pos_debugging_IntelliJ.gif" width="750">
 </p>
 
 * Debugging via Eclipse do código Main.java (exemplifica chamadas de métodos)  
 <p align="center">
-	<img src="" width="750">
+	<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/014%20Debugging-Java/images/Debugging_via_Eclipse_IDE.gif" width="750">
 </p>  
 
 ---
