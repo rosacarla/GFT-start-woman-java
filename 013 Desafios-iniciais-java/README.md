@@ -108,7 +108,7 @@ Ver os códigos a seguir:
 | [1 - MultiplicacaoSimples]() | [2 - CoxinhaBueno]() | [3 - CompletaAlbum]() | [4 - DegustacaoCorreta]() |  
 
 <p align="justify">
-<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/013%20Desafios-iniciais-java/images/DesafioCodigoJava_GFT.gif" width="680">
+<img src="https://github.com/rosacarla/GFT-start-woman-java/blob/main/013%20Desafios-iniciais-java/images/DesafioCodigoJava_GFT.gif" width="880">
 </p>  
 
 ---  
