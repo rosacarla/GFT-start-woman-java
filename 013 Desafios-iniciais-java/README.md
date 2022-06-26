@@ -113,13 +113,6 @@ Ver os códigos a seguir:
 
 ---  
 
-## Autora  
-
-Carla Edila Silveira  
-Contato: rosa.carla@pucpr.edu.br  
-
----  
-
 ## Links úteis  
 
 [La diferencia entre tamaño y longitud en Java](https://www.delftstack.com/es/howto/java/size-vs-length-in-java/)  
