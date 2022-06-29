@@ -21,17 +21,54 @@ Visão geral: Stream API - parte 1 | Visão geral: Stream API - parte 2 | Princi
 
 ## ✏️Práticas realizadas  
 
-* [Exemplos com Collections](https://github.com/rosacarla/GFT-start-woman-java/tree/main/012%20Trabalhando-com-collections-java/collections-examples/src/dio/com/collections)
-<p align="center">
-	<img src="" width="880">
-</p>
+* [Exemplos com Collections](https://github.com/rosacarla/GFT-start-woman-java/tree/main/012%20Trabalhando-com-collections-java/collections-examples/src/dio/com/collections)  
+
+``` java
+package dio.com.collections;
+
+/* Implementar estrutura com Map que recupere dados de um aluno passando
+ apenas seu nome como argumento de um método; informa-se o nome do aluno
+ e o objeto correspondente a esse nome é devolvido. */
+
+import java.util.*;
+
+public class MapaAluno {
+
+    public static void main(String[] args) { //declaração do collection informa 2 tipos (String e Aluno)//
+        Map<String, Aluno> mapa = new TreeMap<String, Aluno>(); //String é a chave e objeto Aluno é o valor//
+        //TreeMap garante que as chaves estão em ordem ascendente
+
+        Aluno a = new Aluno("João da Silva", "Linux básico", 0);
+        Aluno b = new Aluno("Antonio Sousa", "OpenOffice", 0);
+        Aluno c = new Aluno("Lúcia Ferreira", "Internet", 0);
+        Aluno d = new Aluno("Benedito Silva", "OpenOffice", 0);
+
+        //metodo put() insere na estrutura e recebe 2 objetos (chave e valor)//
+        mapa.put("João da Silva", a);
+        mapa.put("Antonio Sousa", b);
+        mapa.put("Lúcia Ferreira", c);
+        mapa.put("Benedito Silva", d);
+        System.out.println(mapa);
+        System.out.println("\n--------------------------------------------\n");
+        //get() recupera objeto específico, passada a chave como parâmetro
+        System.out.println(mapa.get("Lúcia Ferreira")); //nome do aluno é a chave
+        System.out.println("\n--------------------------------------------\n");
+
+        // metodo values() retorna um Collection com valores associados às chaves
+        Collection<Aluno> alunos = mapa.values();
+        for (Aluno e : alunos) {   //percorrer mapa partindo do value e usado enhanced-for
+            System.out.println(e);
+        }
+    }
+
+}
+```
 
 * Exercícios com Collections  
-[Lists](https://github.com/rosacarla/GFT-start-woman-java/tree/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/list) | [Set](https://github.com/rosacarla/GFT-start-woman-java/tree/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/set) | [Map](https://github.com/rosacarla/GFT-start-woman-java/tree/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/map) | [Stream](https://github.com/rosacarla/GFT-start-woman-java/tree/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/streamAPI)  
-
-<p align="center">
-	<img src="" width="880">
-</p>  
+[Lists (5 exercícios)](https://github.com/rosacarla/GFT-start-woman-java/tree/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/list) - Exemplo: programa com perguntas sobre um crime para classificar a pessoa respondente como "Suspeita", "Cúmplice", "Assassina" ou "Inocente". [Ver código.](https://github.com/rosacarla/GFT-start-woman-java/blob/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/list/ExercicioProposto02.java)  
+[Set (4 exercícios)](https://github.com/rosacarla/GFT-start-woman-java/tree/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/set) - Exemplo: programa cria conjunto com dados sobre séries favoritas, ordena o conjunto e exibe nome, gênero e tempo de episódio. [Ver código.](https://github.com/rosacarla/GFT-start-woman-java/blob/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/set/ExemploOrdenacaoSet.java)  
+[Map (5 exercícios)](https://github.com/rosacarla/GFT-start-woman-java/tree/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/map) - Exemplo: programa recebe dados de modelos de carros e respectivos consumos na estrada, que são ordenados/atualizados em um dicionário, para fazer comparações e exibir informações sobre eficiência de consumo. [Ver código.](https://github.com/rosacarla/GFT-start-woman-java/blob/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/map/ExemploMap.java)  
+[Stream (2 exercícios)](https://github.com/rosacarla/GFT-start-woman-java/tree/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/streamAPI) - Exemplo: programa recebe dados para ordená-los em um dicionário e exibir informações de : Nome id - Nome contato. [Ver código.](https://github.com/rosacarla/GFT-start-woman-java/blob/main/012%20Trabalhando-com-collections-java/collections-exercises/src/dio/com/collections/streamAPI/RefatoracaoOrdenacaoMap.java)  
 
 ---
 
