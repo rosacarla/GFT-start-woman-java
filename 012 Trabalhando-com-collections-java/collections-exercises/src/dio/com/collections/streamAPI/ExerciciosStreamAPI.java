@@ -24,7 +24,7 @@ public class ExerciciosStreamAPI {
             }
         });
 
-        //opção de impressao com função lamda
+        //opção de impressao com função lambda
         System.out.println("\nImprima todos os elementos dessa lista de String (função Lambda): ");
         numerosAleatorios.forEach(s -> {  //implementada função lambda
             System.out.println(s);
