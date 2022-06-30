@@ -22,8 +22,7 @@ O que é próprio e peculiar a algo ou alguém. | O que pode variar ou mudar, in
 ##### <p align="justify">OBJETO é representação de um conceito/entidade do mundo real, que pode ser física ou conceitual e tem significado definido em determinado software. A classe é estática, um molde, definida para saber depois como criar e manipular os objetos, que ficam na memória do computador. Objetos são instâncias de classes, que executam e fazem coisas acontecer.  </p>
 ##### <p align="justify">MENSAGEM é o processo de ativação de um método de um objeto, quando há uma requisição ou chamada ao método que dispara a execução do comportamento descrito na classe. Pode ir direto para a classe se a requisção é metodo estático. A troca de mensagens entre objetos e classes fazem o sistema funcionar.  </p>
 
-_5) As relações: Herança, Associação e Interface_  
-Herança - Conceito | Herança - Exercício 1 | Herança - Tipos | Herança - Upcast e Downcast | Herança - Polimorfismo e Sobrescrita | Herança - Proposta de Exercício 2 | Herança - Resolução de exercício 2 - Parte 1 | Herança - Resolução de exercício 2 - Parte 2 | Associação - Conceito |  Associação - Tipos | Associação - Exercício | Interface - Conceito | Interface - Exercício |  
+_5) As relações: Herança, Associação e Interface_: Herança - Conceito | Herança - Exercício 1 | Herança - Tipos | Herança - Upcast e Downcast | Herança - Polimorfismo e Sobrescrita | Herança - Proposta de Exercício 2 | Herança - Resolução de exercício 2 - Parte 1 | Herança - Resolução de exercício 2 - Parte 2 | Associação - Conceito |  Associação - Tipos | Associação - Exercício | Interface - Conceito | Interface - Exercício |  
 ##### <p align="justify">HERANÇA é relacionamento entre classes em que uma subclasse (classe filha, classe derivada) é extensão, um subtipo de outra superclasse (classe pai, classe mãe, classe base). A subclasse reaproveita os atributos e métodos da superclasse, também pode definir seus próprios membros além dos herdados.  </p>
 ##### <p align="justify">POLIMORFISMO é mesma ação (método)se comportando diferente. Pode usar polimorfismo com herança e usar herança sem usar polimorfismo.  </p>  
 ##### <p align="justify">SOBRESCRITA é mesma ação (método) podendo se comportar diferente.  </p>  
@@ -35,7 +34,7 @@ Tem comportamento sempre diferente, método é muito abstrato, não podemos prev
 ##### <p align="justify">ASSOCIAÇÃO possibilita relacionamento entre classes e objetos em que podem pedir ajuda a outras classes/objetos e representar de forma completa o conceito a que se destinam. Tipos: estrutural ligado a métodos (composição, agregação) e comportamental ligado a atributos (dependência).  </p>
 
 Agregação | Composição  
--|-  
+-|- 
 Relação mais fraca entre a existência de objetos, entidades. | Dependência forte entre objetos, entidades, se um deixa de existir o outro também.  
 
 Herança | Associação  
@@ -44,8 +43,7 @@ Relação mais rígida, é definida no desenvolvimento quando cria classe herdad
 
 ##### <p align="justify">INTERFACE define um contrato que deve ser seguido pela classe que a implementa, com compromisso de realizar todos os comportamentos da interface. </p> 
 
-_6) A Organização de Pacotes e Visibilidades_  
-Pacotes - Conceitos | Pacotes - Exercícios | Visibilidades - Conceitos | Visibilidades - Exercício | Conclusão | Slides |  
+_6) A Organização de Pacotes e Visibilidades_: Pacotes - Conceitos | Pacotes - Exercícios | Visibilidades - Conceitos | Visibilidades - Exercício | Conclusão | Slides |  
 ##### <p align="justify">PACOTES são organização física ou lógica para separar classes com responsabilidades distintas.  </p>
 ##### <p align="justify"> VISIBILIDADE é configurada por modifificador de acesso com finalidade de determinar até que ponto uma classe, atributo ou método pode ser usado. </p> 
 
