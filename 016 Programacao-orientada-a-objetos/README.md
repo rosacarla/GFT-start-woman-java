@@ -63,7 +63,7 @@ _6) A Organização de Pacotes e Visibilidades_: Pacotes - Conceitos | Pacotes -
 ## 🔗 Links úteis  
 
 [Curso POO - Curso em Vídeo - YouTube](https://www.youtube.com/watch?v=KlIL63MeyMY)  
-[Curso de Java Básico - Loiane Groner - YouTube](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)  
+[Curso de Java Básico - Loiane Groner - YouTube](https://www.youtube.com/watch?v=Gq1BS63pkRA&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=46)  
 [Lesson: Object-Oriented Programming Concepts](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)  
 [Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva](https://www.casadocodigo.com.br/products/livro-oo-conceitos)  
 
